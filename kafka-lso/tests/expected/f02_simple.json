@@ -1,0 +1,41 @@
+{
+  "lso": 3,
+  "rows": [
+    {
+      "offset": 0,
+      "key": "azA=",
+      "value": "djA=",
+      "headers": [
+        [
+          "h",
+          "MQ=="
+        ],
+        [
+          "h",
+          "Mg=="
+        ],
+        [
+          "n",
+          null
+        ]
+      ]
+    },
+    {
+      "offset": 1,
+      "key": null,
+      "value": "djE=",
+      "headers": []
+    },
+    {
+      "offset": 2,
+      "key": "azI=",
+      "value": null,
+      "headers": [
+        [
+          "utf8-é中",
+          "/wA="
+        ]
+      ]
+    }
+  ]
+}
